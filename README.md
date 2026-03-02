@@ -9,4 +9,22 @@ First, a team of botanists and data scientists collect samples of wildflowers. S
 This feature enables non-experts to quickly create an effective machine learning model from data. Second, Azure Machine learning designer. This is a graphical interface enabling no co-development of machine learning solutions. Third, data and compute management. This feature provides cloud-based data storage and compute resources that professional data scientists can use to run data experiment code at scale, and finally, pipelines. This allows data scientists, software engineers, and IT operations professionals to define pipelines to orchestrate model training, deployment, an d management tasks. Let's look at a real-world example of AI in action. 
 Sustainable farming techniques are essential to maximize food production while protecting a fragile environment. The Yield, an agricultural technology company based in Australia, uses sensors, data, and machine learning to help farmers make informed decisions related to weather, soil and plant conditions. You can learn about how they do this in the next video. 
 
-###
+### How Does Machine Learning Influence Your Day-to-Day Life?
+Today, examples of machine learning are all around us. Websites recommend products, movies, and music based on what we have previously purchased, watched, or listened to.
+
+Have you ever used face tagging? This capability is present in several applications that display pictures with human faces and is a typical machine learning example.
+
+What machine learning examples have you come across in your everyday life that you have found useful or perhaps intrusive?
+
+Can you list an example of both a positive and negative application of machine learning you have encountered? Describe the application and why you think it works well or why you felt the experience was negative.
+
+As you continue your research you may also like to investigate topics such as machine learning in:
+
+Social Media
+
+Automated Transport
+
+Digital Assistants
+
+Share your thoughts with your classmates and see what other people think about machine learning and its influence on our day-to-day lives.
+
